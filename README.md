@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ChrisMiiranda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Estudante de Sistemas de Informação, apaixonado por tecnologia, negócios e idéias inovadoras.
+🌱 Estou atualmente aprendendo NodeJs
 
-<!---
-ChrisMiiranda/ChrisMiiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 Estou procurando ajuda com Desenvolvimento Web
+
+👨‍💻 Você pode encontrar meus projetos em https://github.com/ChrisMiiranda
+
+📫 Como me encontrar christopher.ramos.miranda@gmail.com
+
